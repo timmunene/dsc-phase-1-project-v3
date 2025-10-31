@@ -1,3 +1,7 @@
+Tableau Visualisation link:
+https://public.tableau.com/app/profile/timothy.ikiao5841/viz/Phase_One_Project_17619232192440/IncidentsInjuries?publish=yes
+
+
 # Aircraft Safety - NTSB
 We shall use the provided National Transportation Safety Board (NTSB) (1962 - 2023) civil aviation data to achieve our objectives.
 
