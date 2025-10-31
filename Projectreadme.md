@@ -21,6 +21,8 @@ i. 'Aircraft.damage' column
 ## 2. Collate and Group injuries data
 ## 3. Add incident count per aircraft
 ## 4. Visualisation
+### Aircraft type by Total Injuries
+### Aircraft Type by Incident Count
 ### Export Make_Model_Grp to Excel
 
 # Summary
